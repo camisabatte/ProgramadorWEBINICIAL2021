@@ -1,0 +1,41 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+body{
+    /*background: tomato;*/
+    background-image: url("https://tripin.travel/wp-content/uploads/2020/02/cataratas-iguazu-panoramica-1140x760.jpg");
+}
+#contenedor{
+    background: rgb(170, 62, 134);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+.cabecera{
+    border:dashed 1px coral;
+}
+.titulo{
+    font-size: 6em
+    text-align: center;
+    color: darkgreen;
+}
+#destacado{
+    color: darkorchid;
+    font-size: 1em;
+}
+.tercerparrafo{
+    background-color: yellow;
+}
+.piedepagina{
+    border-top: 2px solid black;
+    font-size: 2em;
+}
+.contenedor2{
+    background-color: teal;
+    color:rgb(167, 145, 145);
+}
